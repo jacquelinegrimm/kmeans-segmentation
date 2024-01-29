@@ -14,15 +14,15 @@ Before running the notebook, you need to have Anaconda installed on your system.
 
 Follow these steps to set up your environment and run the notebook:
 
-1. **Navigate to the desired directory:**
+1. **Navigate to the desired directory**
 
    Use the command line to navigate to the desired directory:
 
    ```bash
-   cd ~/MyProjects
+   cd ~/MyDirectory
    ```
 
-2. **Create a Conda environment:**
+2. **Create a Conda environment**
 
    ```bash
    conda create -n myenv python=3.10
